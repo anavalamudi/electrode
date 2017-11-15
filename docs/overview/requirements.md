@@ -19,7 +19,7 @@ First, let's quickly check your development environment. You will need to have t
         -   `ignite check-nodejs` - To verify your NodeJS and npm versions.
         -   `ignite generate-app` - To generate a new Electrode React app.
 
-#### npm Verion 3
+#### npm Version 3
 
 **Electrode requires npm version >= 3**
 
